@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roll a Ball - Gaze v2.CSharp", "Roll a Ball - Gaze v2.CSharp.csproj", "{23D58041-C649-17D6-25A3-7CE39529F72F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roll a Ball - Gaze v2.CSharp.Editor", "Roll a Ball - Gaze v2.CSharp.Editor.csproj", "{5320A1C8-0B0C-E13A-B172-EC1ED7A9F430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D58041-C649-17D6-25A3-7CE39529F72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D58041-C649-17D6-25A3-7CE39529F72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D58041-C649-17D6-25A3-7CE39529F72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D58041-C649-17D6-25A3-7CE39529F72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5320A1C8-0B0C-E13A-B172-EC1ED7A9F430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5320A1C8-0B0C-E13A-B172-EC1ED7A9F430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5320A1C8-0B0C-E13A-B172-EC1ED7A9F430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5320A1C8-0B0C-E13A-B172-EC1ED7A9F430}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
